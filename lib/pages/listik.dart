@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sport/pages/first_page.dart';
 import 'package:sport/pages/channel_list.dart';
 import 'package:sport/pages/loadingpage.dart';
 

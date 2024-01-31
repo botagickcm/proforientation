@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sport/main.dart';
 import 'package:sport/pages/listik.dart';
 
 class FirstPage extends StatefulWidget {
